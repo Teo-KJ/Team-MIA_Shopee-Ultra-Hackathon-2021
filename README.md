@@ -7,6 +7,9 @@ Running Flutter
 ### Run on PC
 Use Android Studio or Visual Studio to run the project by selecting the project directory path.
 
+### To Edit
+All Dart files are in the **lib** folder.
+
 ### Run on Mobile
 To run the Flutter program on your Android mobile phone, press the 'Run' button from Android Studio.
 
