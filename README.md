@@ -8,10 +8,5 @@ Running Flutter
 Use Android Studio or Visual Studio to run the project by selecting the project directory path.
 
 ### Run on Mobile
-To run the Flutter program on your Android mobile phone, go to the project directory and enter the following commands.
+To run the Flutter program on your Android mobile phone, press the 'Run' button from Android Studio.
 
-`%LOCALAPPDATA%\Android\Sdk`
-
-`adb reverse tcp:8081 tcp:8081`
-
-`npx react-native run-android`
