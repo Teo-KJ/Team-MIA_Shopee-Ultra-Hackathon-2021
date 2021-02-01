@@ -2,7 +2,7 @@ import urllib3
 import json
 
 HACKATHON_API_ROOT = 'https://api.hackathon2021.shopee.sg'
-HACKATHON_TOKEN = 'YSmUdKDR2UzWreoQtkb2'
+HACKATHON_TOKEN = ''
 
 http = urllib3.PoolManager()
 
