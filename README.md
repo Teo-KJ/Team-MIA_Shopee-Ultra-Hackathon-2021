@@ -40,3 +40,6 @@ The team aims to change the interface of the Shopee mobile app and introduce som
 **Frontend Development** - Flutter and Dart programming language
 
 **Backend** - Flutter and Shopee's APIs
+
+## flutter_kick
+A Flutter tutorial
