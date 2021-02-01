@@ -1,15 +1,9 @@
-# Team-KHUNJ_Shopee-Ultra-Hackathon-2021
+# GroupC5 - Team MIA
 
-Shopee Ultra Hackathon 2021 and associated scripts
+This project comprises of the following team members:
 
-Running Flutter
----------------------------
-### Run on PC
-Use Android Studio or Visual Studio to run the project by selecting the project directory path.
+Teo Kai Jie, Nicholas Neo, Chow Siew Yeng, Mianna Faithe Teng
 
-### To Edit
-All Dart files are in the **lib** folder.
+The team presents
 
-### Run on Mobile
-To run the Flutter program on your Android mobile phone, press the 'Run' button from Android Studio.
-
+## Hello Shopee
