@@ -1,6 +1,6 @@
 # flutter_kick
 
-A new Flutter application.
+A Flutter tutorial.
 
 ## Getting Started
 
